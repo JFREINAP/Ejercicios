@@ -1,7 +1,7 @@
 '''
 Crear un codigo que reciba una edad y que imprima una lista de los años que ha cumplido. ejemplo:
 se ingresa el valor 20 y se imprime :[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
-
+no se aprueba el ejercicio, es muy similar a un ejercicio ya planteado, presentar un problema nuevo. 
 '''
 
 #TODO:Crear el codigo desde esta linea
